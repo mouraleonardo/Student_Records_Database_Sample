@@ -1,0 +1,2338 @@
+[
+    {
+        "student_id": "S24159",
+        "name": "John Nielsen",
+        "email": "nthompson@ramirez.com",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Benchmark Enterprise Networks",
+                "grade": "C"
+            },
+            {
+                "course_name": "Enable Granular E-Commerce",
+                "grade": "A"
+            },
+            {
+                "course_name": "Streamline Next-Generation Functionalities",
+                "grade": "D"
+            },
+            {
+                "course_name": "Empower Bricks-And-Clicks Bandwidth",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2020-08-07",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S87013",
+        "name": "Melinda Gibbs",
+        "email": "amandaterry@yahoo.com",
+        "age": 22,
+        "courses": [
+            {
+                "course_name": "Engineer Plug-And-Play Metrics",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Benchmark E-Business Vortals",
+                "grade": "F"
+            },
+            {
+                "course_name": "Evolve Viral Roi",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Strategize Distributed Applications",
+                "grade": "C"
+            },
+            {
+                "course_name": "Redefine Out-Of-The-Box Systems",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2022-10-03",
+        "status": "active"
+    },
+    {
+        "student_id": "S43209",
+        "name": "Tracy Alexander",
+        "email": "andreasimon@hotmail.com",
+        "age": 24,
+        "courses": [
+            {
+                "course_name": "Monetize Proactive Schemas",
+                "grade": "B"
+            },
+            {
+                "course_name": "Expedite Synergistic Experiences",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2020-04-27",
+        "status": "active"
+    },
+    {
+        "student_id": "S94156",
+        "name": "Jeremy Taylor",
+        "email": "rickyjohnson@gmail.com",
+        "age": 21,
+        "courses": [
+            {
+                "course_name": "Generate Bleeding-Edge E-Business",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Re-Contextualize Strategic Schemas",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2023-08-02",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S70851",
+        "name": "Roberta Brown",
+        "email": "stephanie10@bennett.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Grow Vertical Initiatives",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Leverage Bleeding-Edge Communities",
+                "grade": "D"
+            },
+            {
+                "course_name": "Deliver Synergistic Markets",
+                "grade": "D"
+            },
+            {
+                "course_name": "Re-Intermediate Dot-Com Schemas",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Visualize Next-Generation Models",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2023-06-23",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S35087",
+        "name": "Logan Young",
+        "email": "joseallen@hotmail.com",
+        "age": 30,
+        "courses": [
+            {
+                "course_name": "Engage Intuitive E-Markets",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Scale E-Business Systems",
+                "grade": "B"
+            },
+            {
+                "course_name": "Brand Bricks-And-Clicks Vortals",
+                "grade": "D"
+            },
+            {
+                "course_name": "Re-Intermediate Virtual Applications",
+                "grade": "D"
+            },
+            {
+                "course_name": "Enable Wireless Platforms",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2021-10-17",
+        "status": "active"
+    },
+    {
+        "student_id": "S92556",
+        "name": "Joseph Scott",
+        "email": "harrisonmark@li.biz",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Syndicate Synergistic Systems",
+                "grade": "B"
+            },
+            {
+                "course_name": "Aggregate Distributed E-Commerce",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2021-03-09",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S75991",
+        "name": "Lori Jefferson",
+        "email": "michaelshah@zamora.org",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Implement Mission-Critical Initiatives",
+                "grade": "F"
+            },
+            {
+                "course_name": "Repurpose Seamless Bandwidth",
+                "grade": "D"
+            },
+            {
+                "course_name": "Iterate Customized Networks",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2022-12-11",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S61499",
+        "name": "Randy Hardin",
+        "email": "kevin33@kennedy.com",
+        "age": 25,
+        "courses": [
+            {
+                "course_name": "Architect Dynamic E-Commerce",
+                "grade": "F"
+            },
+            {
+                "course_name": "Transition Bleeding-Edge Partnerships",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2022-12-31",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S19418",
+        "name": "Douglas Gaines",
+        "email": "rebecca76@gutierrez.biz",
+        "age": 23,
+        "courses": [
+            {
+                "course_name": "Streamline Magnetic Bandwidth",
+                "grade": "A"
+            },
+            {
+                "course_name": "Incentivize Virtual Metrics",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2021-03-19",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S28880",
+        "name": "Jeffrey Nguyen",
+        "email": "vjones@hicks.net",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Integrate Rich Channels",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2022-05-13",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S33554",
+        "name": "Kimberly Myers",
+        "email": "belltina@yahoo.com",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Transition Value-Added Channels",
+                "grade": "F"
+            },
+            {
+                "course_name": "Grow Turn-Key Vortals",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Whiteboard Scalable Info-Mediaries",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2021-10-16",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S28240",
+        "name": "Patricia Walter",
+        "email": "sylviagray@gmail.com",
+        "age": 28,
+        "courses": [
+            {
+                "course_name": "Reinvent Granular Convergence",
+                "grade": "B"
+            },
+            {
+                "course_name": "Expedite Vertical Mindshare",
+                "grade": "A"
+            },
+            {
+                "course_name": "Embrace Cross-Media Web-Readiness",
+                "grade": "A"
+            },
+            {
+                "course_name": "Syndicate Magnetic Channels",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2020-05-18",
+        "status": "active"
+    },
+    {
+        "student_id": "S03009",
+        "name": "Crystal King",
+        "email": "christinebarnes@yahoo.com",
+        "age": 25,
+        "courses": [
+            {
+                "course_name": "Integrate Vertical Applications",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2021-01-10",
+        "status": "active"
+    },
+    {
+        "student_id": "S35038",
+        "name": "Michelle Huynh",
+        "email": "stephaniebarker@yahoo.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Extend Mission-Critical Methodologies",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Utilize Bricks-And-Clicks Experiences",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2022-12-08",
+        "status": "active"
+    },
+    {
+        "student_id": "S54324",
+        "name": "Denise Nunez",
+        "email": "ccosta@romero.com",
+        "age": 30,
+        "courses": [
+            {
+                "course_name": "Monetize Frictionless Action-Items",
+                "grade": "B"
+            },
+            {
+                "course_name": "Utilize Ubiquitous E-Services",
+                "grade": "A"
+            },
+            {
+                "course_name": "Generate Clicks-And-Mortar E-Business",
+                "grade": "D"
+            },
+            {
+                "course_name": "E-Enable Dot-Com Deliverables",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2021-01-04",
+        "status": "active"
+    },
+    {
+        "student_id": "S74158",
+        "name": "Richard Sullivan",
+        "email": "pblanchard@hotmail.com",
+        "age": 25,
+        "courses": [
+            {
+                "course_name": "Iterate Visionary Metrics",
+                "grade": "B"
+            },
+            {
+                "course_name": "Utilize E-Business Web Services",
+                "grade": "D"
+            },
+            {
+                "course_name": "Matrix Rich E-Services",
+                "grade": "B"
+            },
+            {
+                "course_name": "Repurpose Holistic E-Commerce",
+                "grade": "C"
+            },
+            {
+                "course_name": "Maximize Web-Enabled E-Markets",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2021-02-23",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S44908",
+        "name": "Joann Collins DDS",
+        "email": "lamkimberly@garcia-smith.com",
+        "age": 19,
+        "courses": [
+            {
+                "course_name": "Whiteboard Viral Models",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Leverage Strategic Functionalities",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Transform Wireless E-Markets",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2022-12-13",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S23215",
+        "name": "Jessica Edwards",
+        "email": "derekbonilla@hotmail.com",
+        "age": 25,
+        "courses": [
+            {
+                "course_name": "Morph Customized Vortals",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Syndicate Back-End Paradigms",
+                "grade": "D"
+            },
+            {
+                "course_name": "Re-Contextualize Distributed E-Services",
+                "grade": "B"
+            },
+            {
+                "course_name": "Matrix B2C Systems",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2022-12-26",
+        "status": "active"
+    },
+    {
+        "student_id": "S18737",
+        "name": "Dale Buck",
+        "email": "eric53@gmail.com",
+        "age": 21,
+        "courses": [
+            {
+                "course_name": "Unleash Efficient Functionalities",
+                "grade": "A"
+            },
+            {
+                "course_name": "Scale Transparent Schemas",
+                "grade": "F"
+            },
+            {
+                "course_name": "Matrix Seamless Relationships",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2024-03-02",
+        "status": "active"
+    },
+    {
+        "student_id": "S82639",
+        "name": "Daniel Bolton",
+        "email": "madison83@hotmail.com",
+        "age": 21,
+        "courses": [
+            {
+                "course_name": "Iterate Collaborative Users",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Drive Distributed Technologies",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Generate Frictionless Eyeballs",
+                "grade": "F"
+            },
+            {
+                "course_name": "Incentivize Bricks-And-Clicks Networks",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2020-10-25",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S20020",
+        "name": "Jaime Cross",
+        "email": "bshaw@harris.com",
+        "age": 25,
+        "courses": [
+            {
+                "course_name": "Matrix Transparent Supply-Chains",
+                "grade": "D"
+            },
+            {
+                "course_name": "Target Extensible Metrics",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2022-11-10",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S08308",
+        "name": "Janice Miller",
+        "email": "crystal72@johnson-mcpherson.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Evolve Interactive Niches",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Monetize Vertical Experiences",
+                "grade": "B"
+            },
+            {
+                "course_name": "Re-Intermediate Extensible Functionalities",
+                "grade": "D"
+            },
+            {
+                "course_name": "Utilize Scalable Partnerships",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2021-08-23",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S89042",
+        "name": "Dana Perez",
+        "email": "anitahoover@hotmail.com",
+        "age": 30,
+        "courses": [
+            {
+                "course_name": "Whiteboard Web-Enabled Solutions",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Re-Contextualize 24/7 Vortals",
+                "grade": "B"
+            },
+            {
+                "course_name": "Productize Value-Added Solutions",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2021-09-30",
+        "status": "active"
+    },
+    {
+        "student_id": "S68890",
+        "name": "Donald Shepard",
+        "email": "nwilson@hotmail.com",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Streamline Enterprise Roi",
+                "grade": "B"
+            },
+            {
+                "course_name": "Re-Intermediate Efficient Roi",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Re-Contextualize Turn-Key Interfaces",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2022-10-15",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S65240",
+        "name": "Jason Jones",
+        "email": "qsmith@hotmail.com",
+        "age": 28,
+        "courses": [
+            {
+                "course_name": "Syndicate Best-Of-Breed Methodologies",
+                "grade": "D"
+            },
+            {
+                "course_name": "Redefine Distributed Info-Mediaries",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2022-04-22",
+        "status": "active"
+    },
+    {
+        "student_id": "S12622",
+        "name": "Robert Oliver",
+        "email": "kayleepittman@pierce.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Brand Compelling Niches",
+                "grade": "A"
+            },
+            {
+                "course_name": "Engage Integrated Synergies",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2024-08-09",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S15084",
+        "name": "Terry Hanson",
+        "email": "fgarcia@hotmail.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Drive Wireless Models",
+                "grade": "A"
+            },
+            {
+                "course_name": "Iterate Cross-Media Technologies",
+                "grade": "C"
+            },
+            {
+                "course_name": "Repurpose End-To-End Action-Items",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2022-01-10",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S79334",
+        "name": "Louis Collins III",
+        "email": "carrie94@arellano.com",
+        "age": 19,
+        "courses": [
+            {
+                "course_name": "Deploy Dot-Com Vortals",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Cultivate Bleeding-Edge Architectures",
+                "grade": "F"
+            },
+            {
+                "course_name": "Synergize Distributed Experiences",
+                "grade": "D"
+            },
+            {
+                "course_name": "Evolve Best-Of-Breed Markets",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Brand Strategic Metrics",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2023-08-30",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S05516",
+        "name": "Maria Travis",
+        "email": "jamiehill@ray-payne.info",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Productize Value-Added Web Services",
+                "grade": "F"
+            },
+            {
+                "course_name": "Visualize Cross-Media Synergies",
+                "grade": "D"
+            },
+            {
+                "course_name": "Envisioneer Distributed Technologies",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Maximize End-To-End Deliverables",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Synthesize Frictionless Eyeballs",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2021-09-21",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S22236",
+        "name": "Eric Hopkins",
+        "email": "theresasutton@hotmail.com",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Revolutionize Wireless Channels",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Implement Customized Models",
+                "grade": "D"
+            },
+            {
+                "course_name": "Harness Granular Methodologies",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Iterate Enterprise E-Services",
+                "grade": "B"
+            },
+            {
+                "course_name": "Architect Plug-And-Play Experiences",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2024-01-30",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S37555",
+        "name": "Brett Coleman",
+        "email": "ljackson@yahoo.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Strategize Sticky Channels",
+                "grade": "B"
+            },
+            {
+                "course_name": "Streamline Compelling Web-Readiness",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2023-10-20",
+        "status": "active"
+    },
+    {
+        "student_id": "S75631",
+        "name": "Robert Hurst",
+        "email": "cberger@guzman.com",
+        "age": 24,
+        "courses": [
+            {
+                "course_name": "Empower Compelling Convergence",
+                "grade": "A"
+            },
+            {
+                "course_name": "Mesh Ubiquitous Roi",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2021-04-03",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S17333",
+        "name": "Elizabeth Richardson",
+        "email": "jennifer30@gmail.com",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Embrace Cross-Platform Paradigms",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2021-07-09",
+        "status": "active"
+    },
+    {
+        "student_id": "S23054",
+        "name": "Kimberly Oneill",
+        "email": "christopher69@duffy.biz",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Deploy 24/365 Networks",
+                "grade": "A"
+            },
+            {
+                "course_name": "Harness 24/365 Solutions",
+                "grade": "F"
+            },
+            {
+                "course_name": "Disintermediate Out-Of-The-Box Web-Readiness",
+                "grade": "B"
+            },
+            {
+                "course_name": "Visualize Holistic Architectures",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2021-11-09",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S47331",
+        "name": "Christopher Brown",
+        "email": "sherry60@hunter.biz",
+        "age": 21,
+        "courses": [
+            {
+                "course_name": "Synthesize Dot-Com E-Markets",
+                "grade": "A"
+            },
+            {
+                "course_name": "Seize User-Centric E-Services",
+                "grade": "D"
+            },
+            {
+                "course_name": "Redefine Transparent Interfaces",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2022-12-02",
+        "status": "active"
+    },
+    {
+        "student_id": "S73563",
+        "name": "Bonnie Sandoval",
+        "email": "roberthicks@yahoo.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Target Compelling Partnerships",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Seize Visionary Models",
+                "grade": "B"
+            },
+            {
+                "course_name": "Engineer Open-Source Content",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2021-10-17",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S28709",
+        "name": "Lauren Miller",
+        "email": "teresa54@gmail.com",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Leverage Cross-Media Eyeballs",
+                "grade": "C"
+            },
+            {
+                "course_name": "Transition User-Centric E-Services",
+                "grade": "C"
+            },
+            {
+                "course_name": "Exploit Efficient Paradigms",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Implement Value-Added Solutions",
+                "grade": "F"
+            },
+            {
+                "course_name": "Disintermediate Frictionless Models",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2023-11-12",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S07503",
+        "name": "Christian Rivera",
+        "email": "abbotttiffany@black-blanchard.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Matrix Bleeding-Edge Paradigms",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Engineer Best-Of-Breed Roi",
+                "grade": "F"
+            },
+            {
+                "course_name": "Benchmark World-Class Channels",
+                "grade": "F"
+            },
+            {
+                "course_name": "Engage Cross-Platform Web Services",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Whiteboard Leading-Edge Architectures",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2023-06-23",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S36186",
+        "name": "Tracy Miranda",
+        "email": "mcconnellshirley@hotmail.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Target Distributed Web-Readiness",
+                "grade": "B"
+            },
+            {
+                "course_name": "Orchestrate Clicks-And-Mortar Relationships",
+                "grade": "F"
+            },
+            {
+                "course_name": "Synthesize Mission-Critical Deliverables",
+                "grade": "B"
+            },
+            {
+                "course_name": "Cultivate Real-Time Communities",
+                "grade": "C"
+            },
+            {
+                "course_name": "Reinvent Cutting-Edge E-Business",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2021-01-14",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S11380",
+        "name": "Jennifer Medina",
+        "email": "younglindsay@hotmail.com",
+        "age": 24,
+        "courses": [
+            {
+                "course_name": "Aggregate Cutting-Edge E-Business",
+                "grade": "C"
+            },
+            {
+                "course_name": "Expedite One-To-One Experiences",
+                "grade": "D"
+            },
+            {
+                "course_name": "Innovate Back-End Action-Items",
+                "grade": "B"
+            },
+            {
+                "course_name": "Revolutionize Enterprise Content",
+                "grade": "C"
+            },
+            {
+                "course_name": "Cultivate Magnetic Eyeballs",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2023-05-08",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S90745",
+        "name": "Daniel Kramer",
+        "email": "amurphy@yahoo.com",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Disintermediate Rich Relationships",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2022-09-02",
+        "status": "active"
+    },
+    {
+        "student_id": "S81788",
+        "name": "Robert Wang",
+        "email": "whiterebecca@whitney.com",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Strategize Distributed Info-Mediaries",
+                "grade": "F"
+            },
+            {
+                "course_name": "Leverage Holistic Mindshare",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2020-07-17",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S17116",
+        "name": "Samantha Gonzalez",
+        "email": "rodriguezmichael@yahoo.com",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Revolutionize E-Business Mindshare",
+                "grade": "B"
+            },
+            {
+                "course_name": "Cultivate Cutting-Edge Experiences",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Reinvent Viral Communities",
+                "grade": "C"
+            },
+            {
+                "course_name": "Drive Seamless Action-Items",
+                "grade": "B"
+            },
+            {
+                "course_name": "Enable Viral Users",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2023-04-15",
+        "status": "active"
+    },
+    {
+        "student_id": "S55917",
+        "name": "Randy Ellis",
+        "email": "yunderwood@yahoo.com",
+        "age": 25,
+        "courses": [
+            {
+                "course_name": "Unleash User-Centric Interfaces",
+                "grade": "F"
+            },
+            {
+                "course_name": "Streamline Proactive Architectures",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Harness Best-Of-Breed Communities",
+                "grade": "D"
+            },
+            {
+                "course_name": "Embrace Frictionless Bandwidth",
+                "grade": "D"
+            },
+            {
+                "course_name": "Architect Vertical Bandwidth",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2023-08-23",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S62239",
+        "name": "Jason Hall",
+        "email": "yhoward@hotmail.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Embrace Clicks-And-Mortar Channels",
+                "grade": "C"
+            },
+            {
+                "course_name": "Implement Wireless Solutions",
+                "grade": "C"
+            },
+            {
+                "course_name": "Syndicate One-To-One Infrastructures",
+                "grade": "D"
+            },
+            {
+                "course_name": "Expedite Rich E-Markets",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2022-03-07",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S18166",
+        "name": "Sabrina Williamson",
+        "email": "xgarcia@gmail.com",
+        "age": 23,
+        "courses": [
+            {
+                "course_name": "Optimize 24/365 Schemas",
+                "grade": "D"
+            },
+            {
+                "course_name": "Redefine Granular Experiences",
+                "grade": "C"
+            },
+            {
+                "course_name": "E-Enable Ubiquitous Architectures",
+                "grade": "B"
+            },
+            {
+                "course_name": "Orchestrate 24/365 Convergence",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2021-01-25",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S75745",
+        "name": "Jared Boyd",
+        "email": "kristinlove@white.com",
+        "age": 24,
+        "courses": [
+            {
+                "course_name": "Strategize Cutting-Edge Experiences",
+                "grade": "D"
+            },
+            {
+                "course_name": "Incubate Out-Of-The-Box E-Business",
+                "grade": "A"
+            },
+            {
+                "course_name": "Repurpose Real-Time Channels",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2024-01-28",
+        "status": "active"
+    },
+    {
+        "student_id": "S85478",
+        "name": "Mrs. Krystal Lewis",
+        "email": "cynthia90@williams.info",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Incubate World-Class Users",
+                "grade": "C"
+            },
+            {
+                "course_name": "Exploit Real-Time Supply-Chains",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Benchmark Best-Of-Breed Functionalities",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2020-11-28",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S69655",
+        "name": "Jordan Knight",
+        "email": "smithchristopher@gmail.com",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Grow Scalable Metrics",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2023-04-25",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S97627",
+        "name": "Ashlee Galvan",
+        "email": "showard@brown.net",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Iterate Global Platforms",
+                "grade": "B"
+            },
+            {
+                "course_name": "Innovate 24/7 Convergence",
+                "grade": "C"
+            },
+            {
+                "course_name": "Unleash Robust Platforms",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2024-06-07",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S60313",
+        "name": "Tina Diaz",
+        "email": "ugentry@martin-alvarado.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Streamline Cutting-Edge Solutions",
+                "grade": "D"
+            },
+            {
+                "course_name": "Leverage Killer Interfaces",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2023-09-15",
+        "status": "active"
+    },
+    {
+        "student_id": "S34046",
+        "name": "Maria Kline",
+        "email": "qwilliams@mcgrath-chen.info",
+        "age": 28,
+        "courses": [
+            {
+                "course_name": "Unleash Strategic Convergence",
+                "grade": "A"
+            },
+            {
+                "course_name": "Aggregate Virtual Eyeballs",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Repurpose Impactful Experiences",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Incentivize B2B Convergence",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Expedite Synergistic Niches",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2024-02-19",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S35393",
+        "name": "Julie Hill",
+        "email": "ricetodd@ramsey.net",
+        "age": 19,
+        "courses": [
+            {
+                "course_name": "Incentivize Distributed Interfaces",
+                "grade": "D"
+            },
+            {
+                "course_name": "Engineer Transparent Markets",
+                "grade": "F"
+            },
+            {
+                "course_name": "Evolve Visionary Eyeballs",
+                "grade": "D"
+            },
+            {
+                "course_name": "Visualize Viral Technologies",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Repurpose Out-Of-The-Box Web-Readiness",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2021-09-23",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S21940",
+        "name": "Christopher Gonzalez",
+        "email": "stephanietorres@hotmail.com",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Embrace Enterprise Communities",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Engage Proactive E-Business",
+                "grade": "A"
+            },
+            {
+                "course_name": "Harness Web-Enabled Partnerships",
+                "grade": "A"
+            },
+            {
+                "course_name": "Matrix Visionary Methodologies",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2021-03-19",
+        "status": "active"
+    },
+    {
+        "student_id": "S55250",
+        "name": "Cindy Ellis",
+        "email": "jordanstafford@gmail.com",
+        "age": 24,
+        "courses": [
+            {
+                "course_name": "Brand B2B Convergence",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Extend Virtual E-Markets",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2023-12-14",
+        "status": "active"
+    },
+    {
+        "student_id": "S79124",
+        "name": "Willie Cohen",
+        "email": "kari97@webster-phillips.info",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Disintermediate Visionary Portals",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2023-02-08",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S61075",
+        "name": "John Cannon",
+        "email": "curtishodge@yahoo.com",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Seize Frictionless Relationships",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2021-11-13",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S54643",
+        "name": "Jennifer Martin",
+        "email": "uhoward@buck.com",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Implement Back-End Niches",
+                "grade": "A"
+            },
+            {
+                "course_name": "Envisioneer Cutting-Edge Schemas",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Revolutionize Synergistic Web Services",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Re-Intermediate Mission-Critical Vortals",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2024-01-24",
+        "status": "active"
+    },
+    {
+        "student_id": "S90140",
+        "name": "Daniel Johnson",
+        "email": "fanderson@pierce.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Strategize Strategic Roi",
+                "grade": "A"
+            },
+            {
+                "course_name": "Unleash World-Class Eyeballs",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Envisioneer Open-Source Channels",
+                "grade": "F"
+            },
+            {
+                "course_name": "Streamline Transparent Architectures",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Optimize Intuitive Convergence",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2024-04-25",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S08767",
+        "name": "Danielle Hanson",
+        "email": "keithkaren@scott.net",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Iterate Virtual E-Commerce",
+                "grade": "A"
+            },
+            {
+                "course_name": "Drive Revolutionary Partnerships",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2021-03-21",
+        "status": "active"
+    },
+    {
+        "student_id": "S02009",
+        "name": "William Allen",
+        "email": "melaniesmith@yahoo.com",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Maximize B2B Convergence",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2024-06-07",
+        "status": "active"
+    },
+    {
+        "student_id": "S77468",
+        "name": "Pamela Hart",
+        "email": "andrewwilson@hotmail.com",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Synthesize Bleeding-Edge Relationships",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Iterate Granular Experiences",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2021-05-06",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S78517",
+        "name": "Kevin Martin",
+        "email": "morganangela@phillips-klein.com",
+        "age": 21,
+        "courses": [
+            {
+                "course_name": "Envisioneer Customized Communities",
+                "grade": "B"
+            },
+            {
+                "course_name": "Incentivize Cutting-Edge Synergies",
+                "grade": "C"
+            },
+            {
+                "course_name": "Integrate Global Networks",
+                "grade": "D"
+            },
+            {
+                "course_name": "Re-Intermediate Strategic Content",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2020-12-23",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S27778",
+        "name": "Christopher Johnson",
+        "email": "chowell@yahoo.com",
+        "age": 23,
+        "courses": [
+            {
+                "course_name": "Repurpose Vertical Web-Readiness",
+                "grade": "F"
+            },
+            {
+                "course_name": "Scale Open-Source Supply-Chains",
+                "grade": "D"
+            },
+            {
+                "course_name": "Scale Turn-Key Synergies",
+                "grade": "A"
+            },
+            {
+                "course_name": "Productize 24/7 Markets",
+                "grade": "B"
+            },
+            {
+                "course_name": "Maximize B2C Relationships",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2021-04-24",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S43954",
+        "name": "Gary White",
+        "email": "hwhite@yahoo.com",
+        "age": 23,
+        "courses": [
+            {
+                "course_name": "Utilize User-Centric Convergence",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Integrate Collaborative Users",
+                "grade": "D"
+            },
+            {
+                "course_name": "Leverage Customized Web Services",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Architect Cross-Platform Synergies",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Implement Scalable Convergence",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2024-02-14",
+        "status": "active"
+    },
+    {
+        "student_id": "S66400",
+        "name": "Amy Hunt",
+        "email": "johnsonjoseph@hotmail.com",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Disintermediate Wireless Communities",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Utilize Frictionless Roi",
+                "grade": "A"
+            },
+            {
+                "course_name": "Morph Real-Time Vortals",
+                "grade": "B"
+            },
+            {
+                "course_name": "Envisioneer 24/7 Supply-Chains",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2020-02-06",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S13321",
+        "name": "Jennifer Bowman",
+        "email": "brettdavis@hotmail.com",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Integrate Back-End E-Business",
+                "grade": "B"
+            },
+            {
+                "course_name": "Maximize Plug-And-Play Communities",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Re-Intermediate Customized Systems",
+                "grade": "F"
+            },
+            {
+                "course_name": "Unleash User-Centric E-Services",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Implement E-Business Vortals",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2022-04-17",
+        "status": "active"
+    },
+    {
+        "student_id": "S27394",
+        "name": "Christine Williams",
+        "email": "lwhite@henson.com",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Monetize Extensible Platforms",
+                "grade": "B"
+            },
+            {
+                "course_name": "Morph World-Class Convergence",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Embrace B2C Networks",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Scale Seamless Partnerships",
+                "grade": "A"
+            },
+            {
+                "course_name": "Envisioneer Intuitive Mindshare",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2022-08-15",
+        "status": "active"
+    },
+    {
+        "student_id": "S49759",
+        "name": "Elizabeth Gaines",
+        "email": "jefferyharris@gmail.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Iterate Cutting-Edge Web Services",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Transform Transparent Channels",
+                "grade": "C"
+            },
+            {
+                "course_name": "Transform Mission-Critical Action-Items",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2023-06-19",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S03929",
+        "name": "Lee Peck",
+        "email": "npollard@avila.com",
+        "age": 21,
+        "courses": [
+            {
+                "course_name": "Facilitate Bleeding-Edge Convergence",
+                "grade": "C"
+            },
+            {
+                "course_name": "Mesh User-Centric Applications",
+                "grade": "A"
+            },
+            {
+                "course_name": "Synthesize User-Centric Solutions",
+                "grade": "C"
+            },
+            {
+                "course_name": "Reinvent Collaborative Methodologies",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2021-04-10",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S76192",
+        "name": "Ashley Brooks",
+        "email": "michaelburns@yahoo.com",
+        "age": 28,
+        "courses": [
+            {
+                "course_name": "Envisioneer 24/7 Action-Items",
+                "grade": "A"
+            },
+            {
+                "course_name": "Incubate B2B E-Services",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2024-05-19",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S88162",
+        "name": "James Taylor",
+        "email": "smithanthony@gmail.com",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Transition Viral Relationships",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Embrace Magnetic E-Services",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2022-08-14",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S30748",
+        "name": "Amanda Waters",
+        "email": "zacharypayne@levine.com",
+        "age": 30,
+        "courses": [
+            {
+                "course_name": "Orchestrate Integrated Paradigms",
+                "grade": "C"
+            },
+            {
+                "course_name": "Iterate Killer Content",
+                "grade": "C"
+            },
+            {
+                "course_name": "Envisioneer Cross-Platform Convergence",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Embrace Interactive Users",
+                "grade": "B"
+            },
+            {
+                "course_name": "Engage Efficient Interfaces",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2021-11-09",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S85924",
+        "name": "Joanne Alvarez",
+        "email": "jonathan62@johnson-hess.com",
+        "age": 28,
+        "courses": [
+            {
+                "course_name": "Optimize Strategic Models",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2024-04-08",
+        "status": "active"
+    },
+    {
+        "student_id": "S70165",
+        "name": "Christopher Blankenship",
+        "email": "vasquezamanda@duncan.org",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "E-Enable Dot-Com E-Services",
+                "grade": "D"
+            },
+            {
+                "course_name": "Cultivate Seamless E-Tailers",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2021-11-14",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S38783",
+        "name": "Andre Rogers",
+        "email": "patelcrystal@gmail.com",
+        "age": 25,
+        "courses": [
+            {
+                "course_name": "Enhance Real-Time Eyeballs",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2021-02-02",
+        "status": "active"
+    },
+    {
+        "student_id": "S27124",
+        "name": "Timothy Sanders",
+        "email": "brianwhitney@bradford.com",
+        "age": 28,
+        "courses": [
+            {
+                "course_name": "Reinvent Integrated Methodologies",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2023-07-11",
+        "status": "active"
+    },
+    {
+        "student_id": "S01269",
+        "name": "Matthew Wright",
+        "email": "woodcody@gmail.com",
+        "age": 21,
+        "courses": [
+            {
+                "course_name": "Enhance Extensible Relationships",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Orchestrate Holistic Info-Mediaries",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2024-04-16",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S00485",
+        "name": "Tammy Olsen",
+        "email": "jennifer00@stevenson.com",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Redefine Distributed Users",
+                "grade": "D"
+            },
+            {
+                "course_name": "Morph Turn-Key Users",
+                "grade": "A"
+            },
+            {
+                "course_name": "Deploy Plug-And-Play Portals",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2021-10-10",
+        "status": "active"
+    },
+    {
+        "student_id": "S04613",
+        "name": "Jodi Owens",
+        "email": "kevinadams@singh-mitchell.com",
+        "age": 23,
+        "courses": [
+            {
+                "course_name": "Redefine 24/7 Web-Readiness",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2020-07-05",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S01943",
+        "name": "Sean Smith",
+        "email": "laurieferguson@yahoo.com",
+        "age": 22,
+        "courses": [
+            {
+                "course_name": "Cultivate One-To-One Relationships",
+                "grade": "D"
+            },
+            {
+                "course_name": "Drive Synergistic Initiatives",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Iterate Proactive Communities",
+                "grade": "F"
+            },
+            {
+                "course_name": "Scale Frictionless Niches",
+                "grade": "C"
+            },
+            {
+                "course_name": "Unleash Scalable Infrastructures",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2020-02-05",
+        "status": "active"
+    },
+    {
+        "student_id": "S84925",
+        "name": "Thomas Burton",
+        "email": "acurtis@smith.com",
+        "age": 30,
+        "courses": [
+            {
+                "course_name": "Matrix Holistic Content",
+                "grade": "F"
+            },
+            {
+                "course_name": "Incentivize Mission-Critical Convergence",
+                "grade": "D"
+            },
+            {
+                "course_name": "Scale Sticky Functionalities",
+                "grade": "D"
+            },
+            {
+                "course_name": "Disintermediate Virtual Roi",
+                "grade": "D"
+            },
+            {
+                "course_name": "Integrate Front-End Models",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2022-04-06",
+        "status": "active"
+    },
+    {
+        "student_id": "S46263",
+        "name": "Brett Lewis",
+        "email": "mitchellchristine@mason-williams.biz",
+        "age": 25,
+        "courses": [
+            {
+                "course_name": "Aggregate Impactful Roi",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Benchmark Dot-Com Convergence",
+                "grade": "B"
+            },
+            {
+                "course_name": "Re-Intermediate Visionary Web Services",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Maximize Open-Source Info-Mediaries",
+                "grade": "D"
+            },
+            {
+                "course_name": "Revolutionize One-To-One E-Commerce",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2023-09-01",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S09678",
+        "name": "Tyrone Bishop",
+        "email": "alan75@williams-gay.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Deliver Web-Enabled E-Markets",
+                "grade": "F"
+            },
+            {
+                "course_name": "Maximize Virtual Markets",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Innovate Dynamic Info-Mediaries",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2022-07-16",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S06732",
+        "name": "Timothy Quinn",
+        "email": "murraymelissa@daniel.org",
+        "age": 24,
+        "courses": [
+            {
+                "course_name": "Expedite Leading-Edge Eyeballs",
+                "grade": "D"
+            },
+            {
+                "course_name": "Drive Collaborative Methodologies",
+                "grade": "C"
+            },
+            {
+                "course_name": "Synthesize Magnetic Models",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2020-10-08",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S72162",
+        "name": "Kristen Guzman",
+        "email": "nathanharris@martin.com",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Monetize Frictionless Paradigms",
+                "grade": "C"
+            },
+            {
+                "course_name": "Visualize Back-End Markets",
+                "grade": "B"
+            },
+            {
+                "course_name": "Expedite Real-Time Methodologies",
+                "grade": "F"
+            },
+            {
+                "course_name": "Leverage Best-Of-Breed Channels",
+                "grade": "A"
+            },
+            {
+                "course_name": "Synthesize Dot-Com Bandwidth",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2021-05-09",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S27322",
+        "name": "Rebecca White",
+        "email": "deborahfritz@yahoo.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Leverage Innovative Models",
+                "grade": "A"
+            },
+            {
+                "course_name": "Transition Ubiquitous Metrics",
+                "grade": "A"
+            },
+            {
+                "course_name": "Generate Killer Paradigms",
+                "grade": "D"
+            },
+            {
+                "course_name": "Leverage Global Architectures",
+                "grade": "F"
+            },
+            {
+                "course_name": "Cultivate Rich Networks",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2023-05-01",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S00396",
+        "name": "Jason Bartlett",
+        "email": "patrick45@garcia.com",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Seize Rich Info-Mediaries",
+                "grade": "A"
+            },
+            {
+                "course_name": "Generate Revolutionary E-Tailers",
+                "grade": "F"
+            },
+            {
+                "course_name": "Mesh Dynamic Infrastructures",
+                "grade": "F"
+            },
+            {
+                "course_name": "Orchestrate Impactful Action-Items",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Visualize Clicks-And-Mortar Communities",
+                "grade": "B"
+            }
+        ],
+        "enrollment_date": "2023-08-29",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S19380",
+        "name": "Kimberly Gonzalez",
+        "email": "shellymosley@blair-heath.com",
+        "age": 18,
+        "courses": [
+            {
+                "course_name": "Productize Collaborative Functionalities",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Integrate World-Class Web Services",
+                "grade": "F"
+            },
+            {
+                "course_name": "Re-Contextualize Out-Of-The-Box Action-Items",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Grow Enterprise Partnerships",
+                "grade": "D"
+            },
+            {
+                "course_name": "Embrace One-To-One Platforms",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2020-09-04",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S82163",
+        "name": "Thomas Stout",
+        "email": "jjohnson@wilkins.biz",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Maximize End-To-End Supply-Chains",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Brand Customized Supply-Chains",
+                "grade": "B"
+            },
+            {
+                "course_name": "Morph Revolutionary Models",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Drive World-Class Portals",
+                "grade": "D"
+            }
+        ],
+        "enrollment_date": "2023-11-24",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S73647",
+        "name": "Brian Simpson",
+        "email": "kcook@kim.com",
+        "age": 24,
+        "courses": [
+            {
+                "course_name": "Whiteboard Revolutionary Infrastructures",
+                "grade": "C"
+            },
+            {
+                "course_name": "Optimize Compelling Info-Mediaries",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Repurpose 24/7 Content",
+                "grade": "C"
+            },
+            {
+                "course_name": "Scale Ubiquitous Web Services",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Scale Impactful Experiences",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2020-12-22",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S53822",
+        "name": "Natalie Ross",
+        "email": "cherrystephen@hotmail.com",
+        "age": 26,
+        "courses": [
+            {
+                "course_name": "Exploit Interactive Info-Mediaries",
+                "grade": "C"
+            },
+            {
+                "course_name": "Re-Contextualize Customized Vortals",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2022-02-11",
+        "status": "active"
+    },
+    {
+        "student_id": "S81675",
+        "name": "Makayla Savage",
+        "email": "kristin43@gmail.com",
+        "age": 30,
+        "courses": [
+            {
+                "course_name": "Extend 24/7 Methodologies",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Syndicate Cutting-Edge Communities",
+                "grade": "F"
+            },
+            {
+                "course_name": "Syndicate Scalable Deliverables",
+                "grade": "B+"
+            },
+            {
+                "course_name": "Transition Bleeding-Edge Deliverables",
+                "grade": "B+"
+            }
+        ],
+        "enrollment_date": "2022-11-18",
+        "status": "graduated"
+    },
+    {
+        "student_id": "S66855",
+        "name": "Michael Anderson",
+        "email": "emorales@hotmail.com",
+        "age": 27,
+        "courses": [
+            {
+                "course_name": "Iterate Vertical Users",
+                "grade": "D"
+            },
+            {
+                "course_name": "Transition Clicks-And-Mortar Users",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Synthesize Robust Functionalities",
+                "grade": "C"
+            },
+            {
+                "course_name": "Synergize Out-Of-The-Box Communities",
+                "grade": "A"
+            }
+        ],
+        "enrollment_date": "2021-04-27",
+        "status": "active"
+    },
+    {
+        "student_id": "S59662",
+        "name": "Matthew Dennis",
+        "email": "joshuaray@gmail.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Redefine Vertical Deliverables",
+                "grade": "F"
+            },
+            {
+                "course_name": "Target Cross-Media Networks",
+                "grade": "A"
+            },
+            {
+                "course_name": "Benchmark Innovative Web-Readiness",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2020-03-01",
+        "status": "active"
+    },
+    {
+        "student_id": "S49637",
+        "name": "Holly Scott",
+        "email": "xturner@shaw.net",
+        "age": 20,
+        "courses": [
+            {
+                "course_name": "Streamline Intuitive E-Commerce",
+                "grade": "F"
+            },
+            {
+                "course_name": "Incentivize Web-Enabled E-Tailers",
+                "grade": "B"
+            },
+            {
+                "course_name": "Extend Best-Of-Breed Supply-Chains",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2022-01-12",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S03179",
+        "name": "Dr. Joseph Griffin",
+        "email": "daniellezimmerman@hotmail.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Empower One-To-One Users",
+                "grade": "D"
+            },
+            {
+                "course_name": "Grow Magnetic Synergies",
+                "grade": "C"
+            },
+            {
+                "course_name": "Architect Compelling Initiatives",
+                "grade": "F"
+            },
+            {
+                "course_name": "Drive Virtual Users",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Deploy End-To-End Deliverables",
+                "grade": "F"
+            }
+        ],
+        "enrollment_date": "2021-03-18",
+        "status": "dropped"
+    },
+    {
+        "student_id": "S42207",
+        "name": "Bryce White",
+        "email": "amanda26@franklin.info",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Drive Extensible Markets",
+                "grade": "D"
+            },
+            {
+                "course_name": "Seize Magnetic Solutions",
+                "grade": "C+"
+            },
+            {
+                "course_name": "Generate Viral Web Services",
+                "grade": "C+"
+            }
+        ],
+        "enrollment_date": "2020-04-26",
+        "status": "active"
+    },
+    {
+        "student_id": "S13566",
+        "name": "David Long",
+        "email": "websterchad@yahoo.com",
+        "age": 29,
+        "courses": [
+            {
+                "course_name": "Drive Synergistic Convergence",
+                "grade": "B"
+            },
+            {
+                "course_name": "Evolve Viral Initiatives",
+                "grade": "D"
+            },
+            {
+                "course_name": "Unleash Granular E-Business",
+                "grade": "B"
+            },
+            {
+                "course_name": "Envisioneer Leading-Edge Technologies",
+                "grade": "A"
+            },
+            {
+                "course_name": "Brand Granular Systems",
+                "grade": "C"
+            }
+        ],
+        "enrollment_date": "2023-09-07",
+        "status": "graduated"
+    }
+]
